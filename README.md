@@ -8,8 +8,6 @@
 
 - React Js: For frontend
 - DeSo: For user authentication
-- Solidity: For creating our smart contract
-- IPFS: For metadata storage
 - GitHub: For collaboration and project planning
 - Tailwind: For styling and animations
 
