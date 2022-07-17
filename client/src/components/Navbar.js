@@ -6,14 +6,6 @@ import { isAuthenticated, login, logout } from "../utils/auth";
 export default function Navbar() {
 
     const [showNavbar, setShowNavbar] = React.useState(false);
-    const [account, setAccount] = React.useState(null);
-
-    const web3Handler = async () => {
-        const accounts = await window.ethereum.request({
-            method: "eth_requestAccounts",
-        });
-        setAccount(accounts[0]);
-    };
 
     const [auth, setAuth] = useState(isAuthenticated());
     console.log(auth)
@@ -86,40 +78,20 @@ export default function Navbar() {
                         </Link>
 
                         <Link to="/create">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Create NFT</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Create</span>
                         </Link>
 
                         <Link to="/gallery">
                             <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Gallery</span>
                         </Link>
 
-                        <Link to="/mynft">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">My NFT</span>
+                        <Link to="/mypurchase">
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">My Purchase</span>
                         </Link>
 
                         <Link to="/upload">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Upload NFT</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Upload</span>
                         </Link>
-
-                        {account ? (
-                            <div
-                                href={`https://etherscan.io/address/${account}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="button nav-button btn-sm mx-4"
-                            >
-                                <button className="bg-secondary py-2 px-8 rounded-md text-white font-bold hover:bg-purple-800">
-                                    {account.slice(0, 5) + "..." + account.slice(38, 42)}
-                                </button>
-                            </div>
-                        ) : (
-                            <button
-                                onClick={web3Handler}
-                                className="bg-secondary py-2 px-8 rounded-md text-white font-bold hover:bg-purple-800"
-                            >
-                                Connect Wallet
-                            </button>
-                        )}
 
                         <button className='bg-[#6F5DE0] text-white py-2 px-8 rounded-md' onClick={() => handleAuth(4, false)}>
                             Logout

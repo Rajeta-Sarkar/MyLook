@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from '../components/Navbar';
 import Home from '../pages/Home';
+import Create from '../pages/Create';
 import Upload from '../pages/Upload';
 import Gallery from '../pages/Gallery';
 
@@ -11,6 +12,7 @@ function Main() {
             <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />
+                <Route path="/create" element={<Create />} />
                 <Route path="/upload" element={<Upload />} />
                 <Route path="/gallery" element={<Gallery />} />
             </Routes>

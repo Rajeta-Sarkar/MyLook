@@ -1,0 +1,11 @@
+Model Information:
+* title:	Air Jordan 1 1985
+* source:	https://sketchfab.com/3d-models/air-jordan-1-1985-2614cef9a3724ec5852144446fbb726f
+* author:	gianpego (https://sketchfab.com/gianpego)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Air Jordan 1 1985" (https://sketchfab.com/3d-models/air-jordan-1-1985-2614cef9a3724ec5852144446fbb726f) by gianpego (https://sketchfab.com/gianpego) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

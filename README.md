@@ -7,6 +7,7 @@
 ## ⚙️ How we built it
 
 - React Js: For frontend
+- Three.js: For 3D rendering
 - DeSo: For user authentication
 - GitHub: For collaboration and project planning
 - Tailwind: For styling and animations
@@ -27,11 +28,20 @@ We are using DeSo to make a secure user authentication. DeSo is the first Layer 
 
 ## 🧠 Challenges we ran into
 
+- Implementing the CI/CD workflow
+- Implementing the secure payment system
+- Building the fashion designer app
+
 ## 🏅 Accomplishments that we're proud of
 
 - Completing the project in the given time frame.
+- Implementing Razorpay payment system.
 
 ## 📖 What we learned
+
+- We learned how to use the CI/CD workflow.
+- We learned how to use the secure payment system.
+- We learned how to work with Three.js.
 
 ## 🚀 What's next for APP NAME
 

@@ -14,7 +14,7 @@ export default function Home() {
                     <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>About the app</p>
 
                     <Link to="/create">
-                        <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Create NFT</button>
+                        <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Create</button>
                     </Link>
 
                 </div>

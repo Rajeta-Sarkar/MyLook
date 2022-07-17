@@ -1,0 +1,512 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        0.19486379623413086,
+        0.19008421897888184,
+        -1.189591646194458
+      ],
+      "min": [
+        -0.19657421112060547,
+        -0.15215179324150085,
+        -1.7194876670837402
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84864,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        0.9988632202148438,
+        0.9998966455459595,
+        0.9995174407958984
+      ],
+      "min": [
+        -0.9995197057723999,
+        -0.9999842047691345,
+        -0.9983510375022888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        0.9999930262565613,
+        0.9991934299468994,
+        0.9999167919158936,
+        1.0
+      ],
+      "min": [
+        -0.999988853931427,
+        -0.9995414614677429,
+        -0.9999684691429138,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        1.9971870183944702,
+        0.9947230219841003
+      ],
+      "min": [
+        1.009253978729248,
+        0.009872019290924072
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 56576,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        1.9971870183944702,
+        0.9947230219841003
+      ],
+      "min": [
+        1.009253978729248,
+        0.009872019290924072
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 113152,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        1.9971870183944702,
+        0.9947230219841003
+      ],
+      "min": [
+        1.009253978729248,
+        0.009872019290924072
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 169728,
+      "componentType": 5126,
+      "count": 7072,
+      "max": [
+        1.9971870183944702,
+        0.9947230219841003
+      ],
+      "min": [
+        1.009253978729248,
+        0.009872019290924072
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 31938,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 169728,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.3917508125305176,
+        0.3097812235355377,
+        -0.012162689119577408
+      ],
+      "min": [
+        -0.3987821340560913,
+        -0.2200767993927002,
+        -1.160491704940796
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 266088,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9999010562896729,
+        0.9998956322669983,
+        0.966031014919281
+      ],
+      "min": [
+        -0.9999871850013733,
+        -0.9998229742050171,
+        -0.9105010032653809
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 113152,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9999107718467712,
+        0.9999826550483704,
+        0.9421613216400146,
+        1.0
+      ],
+      "min": [
+        -0.999992847442627,
+        -0.9999749660491943,
+        -0.9942287802696228,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 226304,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9754809737205505,
+        0.977288007736206
+      ],
+      "min": [
+        0.015398000366985798,
+        0.017841994762420654
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 290544,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9754809737205505,
+        0.977288007736206
+      ],
+      "min": [
+        0.015398000366985798,
+        0.017841994762420654
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 354784,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9754809737205505,
+        0.977288007736206
+      ],
+      "min": [
+        0.015398000366985798,
+        0.017841994762420654
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 419024,
+      "componentType": 5126,
+      "count": 8030,
+      "max": [
+        0.9754809737205505,
+        0.977288007736206
+      ],
+      "min": [
+        0.015398000366985798,
+        0.017841994762420654
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 127752,
+      "componentType": 5125,
+      "count": 34392,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "RealityRoller (https://sketchfab.com/RealityRoller)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/carbon-steel-sunset-full-outfit-8a54dec262724817b14bc09f9714092b",
+      "title": "Carbon Steel Sunset - Full Outfit"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 265320,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 483264,
+      "byteOffset": 265320,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 362448,
+      "byteOffset": 748584,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 241632,
+      "byteOffset": 1111032,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1352664,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Steel_Sunset_-_Top_baseColor.png"
+    },
+    {
+      "uri": "textures/Steel_Sunset_-_Top_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Steel_Sunset_-_Top_normal.png"
+    },
+    {
+      "uri": "textures/Steel_Sunset_-_Pants_baseColor.png"
+    },
+    {
+      "uri": "textures/Steel_Sunset_-_Pants_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Steel_Sunset_-_Pants_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Steel_Sunset_-_Top",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Steel_Sunset_-_Pants",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9199569225311279,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0427147141147193e-16,
+        -0.9199569225311279,
+        0.0,
+        0.0,
+        0.9199569225311279,
+        2.0427147141147193e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.685873969314855e-07,
+        0.9999999999999858,
+        0.0,
+        0.0,
+        -0.9999999999999858,
+        -1.685873969314855e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Carbon Steel Sunset - Full Outfit_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
