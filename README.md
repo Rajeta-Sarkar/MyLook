@@ -1,10 +1,13 @@
-# APP NAME 
+# MyLook
+
 fireAttire
 
 ## 💡 Inspiration
-The inspiration for the app comes from the diverse fasion spread all over the world where people identify themselves by their unique fasion sense and clothing. The idea behind this application is to give people the opportunity to customise their clothes according to their own fasion sense. The design of the cloth can be purchased by any user who comes to purchase from the app. 
+
+The inspiration for the app comes from the diverse fasion spread all over the world where people identify themselves by their unique fasion sense and clothing. The idea behind this application is to give people the opportunity to customise their clothes according to their own fasion sense. The design of the cloth can be purchased by any user who comes to purchase from the app.
 
 ## 💻 What it does
+
 The application allows the users to be able to be their own designers. The app makes the customisation of the clothes easy and allows the user to save all their designs to a seperate gallery. It also allows the designs to be shared to everyv iewer and enables the purchase of the design.
 
 ## ⚙️ How we built it
@@ -46,7 +49,7 @@ We are using DeSo to make a secure user authentication. DeSo is the first Layer 
 - We learned how to use the secure payment system.
 - We learned how to work with Three.js.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for MyLook
 
 - Building a mobile app
 - Deploying the web app.
