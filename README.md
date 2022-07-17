@@ -11,7 +11,7 @@ The application allows the users to be able to be their own designers. The app m
 ## ⚙️ How we built it
 
 - React Js: For frontend
-- Three.js: For 3D rendering
+- Three.js: For 3D model rendering
 - DeSo: For user authentication
 - GitHub: For collaboration and project planning
 - Tailwind: For styling and animations

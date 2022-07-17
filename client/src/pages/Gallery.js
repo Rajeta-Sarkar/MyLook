@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import Icon1 from "../assets/gallery1.jpg";
 import Icon2 from "../assets/gallery2.jpg";
 import Icon3 from "../assets/gallery3.jpg";
@@ -7,6 +7,7 @@ import Icon5 from "../assets/gallery5.jpg";
 import Icon6 from "../assets/gallery6.jpg";
 
 export default function Music() {
+
   const loadScript = (src) => {
     return new Promise((resovle) => {
       const script = document.createElement("script");
@@ -62,15 +63,10 @@ export default function Music() {
       </div>
 
       <div className="flex flex-wrap justify-around w-full px-16">
+        
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon1}
-              height="300"
-              width="300"
-              alt="TicTbeachacToe"
-              className="rounded-t-xl"
-            />
+            <img src={Icon1} height="300" width="300" alt="TicTbeachacToe" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -84,13 +80,7 @@ export default function Music() {
 
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon2}
-              height="300"
-              width="300"
-              alt="nft"
-              className="rounded-t-xl"
-            />
+            <img src={Icon2} height="300" width="300" alt="nft" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -104,13 +94,7 @@ export default function Music() {
 
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon3}
-              height="300"
-              width="300"
-              alt="nft"
-              className="rounded-t-xl"
-            />
+            <img src={Icon3} height="300" width="300" alt="nft" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -124,13 +108,7 @@ export default function Music() {
 
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon4}
-              height="300"
-              width="300"
-              alt="nft"
-              className="rounded-t-xl"
-            />
+            <img src={Icon4} height="300" width="300" alt="nft" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -144,13 +122,7 @@ export default function Music() {
 
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon5}
-              height="300"
-              width="300"
-              alt="nft"
-              className="rounded-t-xl"
-            />
+            <img src={Icon5} height="300" width="300" alt="nft" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -164,13 +136,7 @@ export default function Music() {
 
         <div className="m-8">
           <div className="rounded-xl bg-gray-200">
-            <img
-              src={Icon6}
-              height="300"
-              width="300"
-              alt="nft"
-              className="rounded-t-xl"
-            />
+            <img src={Icon6} height="300" width="300" alt="nft" className="rounded-t-xl" />
             <div className="grid place-items-center mx-1 text-2xl font-semibold text-gray-900 py-2">
               <button
                 className="text-white py-2 px-8 rounded-md text-xl md:text-xl bg-blue-500"
@@ -181,6 +147,7 @@ export default function Music() {
             </div>
           </div>
         </div>
+
       </div>
     </div>
   );
