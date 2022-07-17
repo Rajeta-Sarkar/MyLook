@@ -58,7 +58,7 @@ export default function Music() {
   return (
     <div>
       <div className="grid place-items-center py-5">
-        <h1 className="text-5xl font-bold text-white">Fashion Gallery</h1>
+        <h1 className="text-5xl font-bold">Fashion Gallery</h1>
         <div className="bg-blue-500 h-1 w-36 my-2"></div>
       </div>
 

@@ -7,7 +7,7 @@ export default function Create() {
     return (
         <div>
             <div className="grid place-items-center py-5">
-                <h1 className="text-5xl font-bold text-white">Design Fashion Cloths</h1>
+                <h1 className="text-5xl font-bold">Design Fashion Cloths</h1>
                 <div className='bg-blue-500 h-1 w-52 my-4 rounded-lg'></div>
             </div>
 

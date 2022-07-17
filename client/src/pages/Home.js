@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 export default function Home() {
 
     return (
-        <div className='md:mx-28 mx-4 text-white py-10'>
+        <div className='md:mx-28 mx-4 text-orange-700 py-10'>
 
             <div className='md:grid md:grid-cols-2 items-center'>
                 <div className=''>
@@ -14,7 +14,7 @@ export default function Home() {
                     <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>The idea behind this application is to give people the opportunity to customise their clothes according to their own fasion sense. The design of the cloth can be purchased by any user who comes to purchase from the app.</p>
 
                     <Link to="/create">
-                        <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Create</button>
+                        <button className='bg-yellow-600 text-white py-2 px-8 rounded-md text-xl md:text-2xl'>Create</button>
                     </Link>
 
                 </div>
