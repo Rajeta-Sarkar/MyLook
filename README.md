@@ -1,7 +1,5 @@
 # MyLook
 
-fireAttire
-
 ## 💡 Inspiration
 
 The inspiration for the app comes from the diverse fasion spread all over the world where people identify themselves by their unique fasion sense and clothing. The idea behind this application is to give people the opportunity to customise their clothes according to their own fasion sense. The design of the cloth can be purchased by any user who comes to purchase from the app.
